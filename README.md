@@ -3,27 +3,25 @@
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=henoceli3&label=Profile%20views&color=0e75b6&style=flat" alt="henoceli3" /> </p>
 
-<p align="left"> <a href="https : //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henoceli3" alt="henoceli3" /></ a> </p>
+<p align="left"> <a href="https : //twitter.com/henockodjo" target="blank"><img src="https://img.shields.io/twitter/follow/henockodjo?logo=twitter&style=for-the-badge" alt="henockodjo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/henockodjo" target="blank"><img src="https://img.shields.io/ twitter/suivre/henockodjo?logo=twitter&style=for-the-badge" alt="henockodjo" /></a> </p>
+- 🔭 Je travaille actuellement sur [jeu Tic Tac Toe](https://github.com/henoceli3/Tic-Tac-Toe-game)
 
-- 🔭 Je travaille actuellement sur [jeu Tic Tac Toe](https://github.com/henoceli3/Tic-Tac -Jeu d'orteils)
+- 🌱 J'apprends actuellement * * Réagissez angulaire et Node.js**
 
-- 🌱 J'apprends actuellement **React Angular et Node.js**
-
-- 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/henoceli3?tab=repositories](https://github. com/henoceli3?tab=repositories)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/henoceli3?tab=repositories](https://github.com/henoceli3?tab=repositories)
 
 - 📝 J'écris régulièrement des articles sur [https://twitter.com/HenocKodjo](https://twitter.com/HenocKodjo)
 
 - 💬 Demandez-moi **HTML&CSS&JAVASCRIPT&React**
 
-- 📫 Comment pour me joindre **kodjohenoc07@gmail.com**
+- 📫 Comment me joindre **kodjohenoc07@gmail .com**
 
-- ⚡ Fun fact **Au départ, je voulais être architecte.**
+- ⚡ Fait amusant **Au départ, je voulais être architecte.**
 
 <h3 align="left">Contactez-moi :</h3>
-<p align="left ">
-<a href="https://dev.to/henoceli3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="henoceli3" height="30" width="40" /></a>
+<p align="left">
+<a href="https ://dev.to/henoceli3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Social/devto.svg" alt="henoceli3" height="30" width="40" /></a>
 <a href="https://twitter.com/henockodjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="henockodjo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users /henoc07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack -overflow.svg" alt="henoc07" height="30" width="40" /></a>
 <a href="https://instagram.com/henockodjo" target="blank"><img align ="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="henockodjo" height="30" width="40" /></a>
