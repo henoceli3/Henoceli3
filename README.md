@@ -42,39 +42,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/henoceli3/henoceli3/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/henoceli3/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/henoceli3/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/henoceli3/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/henoceli3/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://pbs.twimg.com/profile_images/1634306942196674560/wcXNP7n4_400x400.jpg"  />
-</div>
-
-###
