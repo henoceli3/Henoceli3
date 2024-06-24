@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is KODJO HENOC and I'm a Junior Developer</h2>
+<h2 align="left">Hi 👋! My name is KODJO HENOC</h2>
 
 ###
 
